@@ -1,7 +1,11 @@
-# PodDev
+# 📣 PodDev 👨🏽‍💻
+
+</BR>
 
 ## 📒 Descrição
 Este episódio do podcast tem aproximadamente 5 minutos e oferece um mergulho rápido, pelo mundo das API's em .NET e e nele tem dicas importantíssimas.
+
+</BR>
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para revisão, e pequenos ajustes;
@@ -9,18 +13,25 @@ Este episódio do podcast tem aproximadamente 5 minutos e oferece um mergulho r�
 - IA Generativa **[AIVA](https://aiva.ai)** para geração de trilha sonora;
 - Software **[Podcastle](https://podcastle.ai)** para edição e montagem do podcast.
 
+</BR>
+
 ## 🧐 Processo de Criação
 "ChatGPT" foi utilizado para fazendo alguns ajustes na narrativa do podcast, fazendo a separação, aplicando dinamicidade no diálogo e correções. "ElevenLabs" ajudou a criar uma voz sintética envolvente para cada personagem do podcast. "AIVA" gerou a trilha sonora aplicando um toque suave e animado, deixando algo mais _natty_, enquanto o "Podcastle" foi essencial para a edição final, garantindo um fluxo suave e profissional com as transições, cortes e ajustes de volume.
+
+</BR>
 
 ## 🚀 Resultados
 O episódio é um breve mergulho no mundo das API's em .NET, tendo uma introdução ideal para aqueles que buscam compreender de maneira concisa esse tema essencial no desenvolvimento de software.
 
-[EPISÓDIO DO PODCAST AQUI]()
-[EPISÓDIO DO PODCAST TRANSCRITO AQUI]()
+[EPISÓDIO DO PODCAST]()
+</BR></BR>
+[EPISÓDIO DO PODCAST TRANSCRITO]()
 
-## 💭 Reflexão (Opcional)
+</BR>
 
-Criar um podcast totalmente "natty" (natural), onde toda a conversa é gerada por inteligência artificial, apresenta alguns desafios interessantes e excitantes. Aqui estão alguns pontos a serem considerados:
+## 💭 Reflexão
+
+Criar um podcast totalmente "natty", onde toda a conversa é gerada por inteligência artificial, apresenta alguns desafios interessantes e excitantes. Aqui estão alguns pontos a serem considerados:
 
 - **Naturalidade da Conversa:**
 O maior desafio é fazer com que a conversa gerada pela IA pareça natural. Isso envolve não apenas a gramática correta, mas também a entonação, o ritmo e a espontaneidade que são características de uma conversa genuína.
