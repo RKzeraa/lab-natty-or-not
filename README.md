@@ -23,9 +23,9 @@ Este episódio do podcast tem aproximadamente 5 minutos e oferece um mergulho r�
 ## 🚀 Resultados
 O episódio é um breve mergulho no mundo das API's em .NET, tendo uma introdução ideal para aqueles que buscam compreender de maneira concisa esse tema essencial no desenvolvimento de software.
 
-[EPISÓDIO DO PODCAST]()
+[EPISÓDIO DO PODCAST - SoundCloud ☁](https://on.soundcloud.com/n7b5i)
 </BR></BR>
-[EPISÓDIO DO PODCAST TRANSCRITO]()
+[EPISÓDIO DO PODCAST - Transcrito](/Podcast/Transcrição/PodDev.txt)
 
 </BR>
 
