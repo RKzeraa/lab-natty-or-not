@@ -1,51 +1,49 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# PodDev
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este episódio do podcast tem aproximadamente 5 minutos e oferece um mergulho rápido, pelo mundo das API's em .NET e e nele tem dicas importantíssimas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para revisão, e pequenos ajustes;
+- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
+- IA Generativa **[AIVA](https://aiva.ai)** para geração de trilha sonora;
+- Software **[Podcastle](https://podcastle.ai)** para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+"ChatGPT" foi utilizado para fazendo alguns ajustes na narrativa do podcast, fazendo a separação, aplicando dinamicidade no diálogo e correções. "ElevenLabs" ajudou a criar uma voz sintética envolvente para cada personagem do podcast. "AIVA" gerou a trilha sonora aplicando um toque suave e animado, deixando algo mais _natty_, enquanto o "Podcastle" foi essencial para a edição final, garantindo um fluxo suave e profissional com as transições, cortes e ajustes de volume.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O episódio é um breve mergulho no mundo das API's em .NET, tendo uma introdução ideal para aqueles que buscam compreender de maneira concisa esse tema essencial no desenvolvimento de software.
+
+[EPISÓDIO DO PODCAST AQUI]()
+[EPISÓDIO DO PODCAST TRANSCRITO AQUI]()
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
+Criar um podcast totalmente "natty" (natural), onde toda a conversa é gerada por inteligência artificial, apresenta alguns desafios interessantes e excitantes. Aqui estão alguns pontos a serem considerados:
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- **Naturalidade da Conversa:**
+O maior desafio é fazer com que a conversa gerada pela IA pareça natural. Isso envolve não apenas a gramática correta, mas também a entonação, o ritmo e a espontaneidade que são características de uma conversa genuína.
 
-## Links Interessantes
+- **Contexto e Coerência:**
+A IA precisa ser capaz de manter o contexto ao longo da conversa e garantir que as respostas sejam coerentes. Isso pode ser complicado, especialmente em conversas longas ou em tópicos complexos.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+- **Expressões Emocionais:**
+Transmitir emoções de maneira autêntica é um grande desafio. A capacidade de expressar entusiasmo, humor, empatia e outras nuances emocionais adiciona profundidade à conversa.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+- **Lidar com Ambiguidades e Ironias:**
+Entender e lidar com ambiguidades na linguagem, bem como compreender ironias e sutilezas, são desafios significativos para a IA.
+
+- **Variedade de Vozes:**
+Para manter a atenção dos ouvintes, a IA precisa ser capaz de gerar uma variedade de vozes e estilos de fala para diferentes personagens ou participantes no podcast.
+
+- **Adaptação ao Público:**
+A IA deve ser capaz de adaptar o tom da conversa ao público-alvo, considerando a idade, cultura e outros fatores relevantes.
+
+- **Aprendizado Contínuo:**
+Uma solução eficaz exigiria aprendizado contínuo para melhorar com o tempo, incorporando feedbacks e se ajustando às tendências linguísticas e culturais.
+
+- **Ética e Responsabilidade:**
+Questões éticas, como a responsabilidade pela informação transmitida, o potencial viés da IA e a garantia de que a IA não promova discurso prejudicial, são considerações cruciais.
+
+Embora seja um desafio significativo, avanços na geração de linguagem natural, como os modelos de linguagem de última geração, indicam que a criação de um podcast "natty" com IA está se tornando cada vez mais possível. No entanto, equilibrar a eficácia da tecnologia com a autenticidade humana continuará sendo uma busca contínua.
